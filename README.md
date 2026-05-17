@@ -1,7 +1,7 @@
 # mcp-steam
 
-[![npm version](https://img.shields.io/npm/v/mcp-steam.svg?style=flat-square)](https://www.npmjs.com/package/mcp-steam)
-[![npm downloads](https://img.shields.io/npm/dm/mcp-steam.svg?style=flat-square)](https://www.npmjs.com/package/mcp-steam)
+[![npm version](https://img.shields.io/npm/v/@naouts/mcp-steam.svg?style=flat-square)](https://www.npmjs.com/package/@naouts/mcp-steam)
+[![npm downloads](https://img.shields.io/npm/dm/@naouts/mcp-steam.svg?style=flat-square)](https://www.npmjs.com/package/@naouts/mcp-steam)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/node/v/mcp-steam.svg?style=flat-square)](https://nodejs.org)
 

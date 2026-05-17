@@ -39,7 +39,7 @@ Add this to your MCP client configuration file:
   "mcpServers": {
     "steam": {
       "command": "npx",
-      "args": ["-y", "mcp-steam"],
+      "args": ["-y", "@naouts/mcp-steam"],
       "env": {
         "STEAM_API_KEY": "YOUR_STEAM_API_KEY"
       }
@@ -51,7 +51,7 @@ Add this to your MCP client configuration file:
 ### Global install
 
 ```bash
-npm install -g mcp-steam
+npm install -g @naouts/mcp-steam
 ```
 
 Then reference it in your MCP config:
@@ -216,10 +216,10 @@ mcp-steam/
 npm login
 
 # Dry-run to verify what gets published
-npm publish --dry-run
+npm publish --dry-run --access public
 
 # Publish
-npm publish
+npm publish --access public
 ```
 
 ---

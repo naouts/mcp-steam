@@ -1,6 +1,6 @@
 {
   "name": "@naouts/mcp-steam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for the Steam API with game search, reviews, details, and owned games by SteamID",
   "keywords": [
     "mcp",

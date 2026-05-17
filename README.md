@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/@naouts/mcp-steam.svg?style=flat-square)](https://www.npmjs.com/package/@naouts/mcp-steam)
 [![npm downloads](https://img.shields.io/npm/dm/@naouts/mcp-steam.svg?style=flat-square)](https://www.npmjs.com/package/@naouts/mcp-steam)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/node/v/mcp-steam.svg?style=flat-square)](https://nodejs.org)
+[![Node.js](https://img.shields.io/node/v/@naouts/mcp-steam.svg?style=flat-square)](https://nodejs.org)
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for the Steam API. Connect any MCP-compatible client to search games, retrieve detailed information, and list a player's owned games.
 
